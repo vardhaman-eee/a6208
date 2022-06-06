@@ -18,9 +18,13 @@ layout: course-single
 After the completion of the course, the student will be able to:
 
 A6208.1. Apply rotating machine fundamentals for construction and operation of Synchronous machines and Single Phase motors.
+
 A6208.2. Analyze the characteristics and performance of synchronous machines, transformers and single phase motors
+
 A6208.3. Apply appropriate speed control technique and starting method for Synchronous and single phase motors for any industrial or house hold applications.
+
 A6208.4. Identify suitable test to determine the performance parameters of synchronous machines and transformers.
+
 A6208.5. Compare various methods for finding voltage regulation of alternators. 
 
 # <a name="syllabus">Syllabus</a>
