@@ -55,11 +55,11 @@ A6208.5. Compare various methods for finding voltage regulation of alternators.
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Unit II [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Unit III [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Unit IV [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Unit V [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Unit I [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EdNIgLgkA8tBl3OW3ekqvqcBEZpOT8BxRPzvDRxkArXS6w?e=oNFWGH)
+2. Unit II [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EWYawPOK4jVDqMwsIxatDtEBsRNNv11nv2Mqle-wj1mbzA?e=3wh1Z9)
+3. Unit III [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EWUtSKy2KDRMiPZEQi1SFVIB3VfexNWOIB9PzH1E6wTz8g?e=HAPgjZ)
+4. Unit IV [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EfsIyTcB6-ZKuohITLlYWwkBOxYvjNZiBKiONqtNo-aM3A?e=VtyBT2)
+5. Unit V [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EUld1nJMxZdGk7NPxrHBHIMBR_Jasbez2hA2KNX10punXg?e=mMJ5Yi)
 
 <hr>
 
@@ -84,18 +84,20 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 ## <a name="practice">Practice</a>
 
-1. O.C. and S.C. Tests on Single phase Transformer [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Three Phase Transformer: Verification of Relationship between Voltages and Currents(Star Delta, Delta-Delta, Delta-star, Star-Star) [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Scott connection of transformers [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Separation of core losses of a single phase transformer [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Sumpner’s test on a pair of single phase transformers [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-6. Regulation of a three phase alternator by synchronous impedance method [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-7. V and Inverted V curves of a three phase synchronous motor [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-8. Equivalent Circuit of a single phase Induction motor [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-9. Determination of Xd and Xq of a salient pole synchronous machine [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-10. Synchronization of alternators [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-11. Brake test on a single phase Induction motor [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-12. Efficiency of Three phase alternator [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+**Cycle-1 Experiments** [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EenwIlgf5AdPnz8KJpicRekBHrgOclQiR38rEA3zUwTJXQ?e=6VkAlk)
+1. O.C. & S.C. Tests on Single phase Transformer. 
+2. Three phase transformer : Verification of relationship between voltages and currents.
+3. Scott Connection of Transformer.
+4. Separation of core losses of a single phase tranformer. 
+5. Sumpners test on a Pair of Single phase Transformer. 
+6. REGULATION OF A THREE PHASE ALTERNATOR BY SYNCHRONOUS IMPEDANCE METHOD.
+7. V AND INVERTED V CURVES OF A THREE PHASE SYNCHRONOUS MOTOR. 
+**Cycle-2 Experiments** [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EYAdoEl2wjVLuWbk22h9PIwBmZN2QoW85BctbRmkrylDHA?e=0EdZQk)
+8. EQUIVALENT CIRCUIT OF A SINGLE PHASE INDUCTION MOTOR. 
+9. DETERMINATION OF Xd AND Xq OF A SALIENT POLE SYNCHRONOUS MACHINE.
+10. SYNCHRONIZATION OF ALTERNATORS. 
+11. BRAKE TEST ON A SINGLE PHASE INDUCTION MOTOR.
+12. EFFICIENCY OF 3 PHASE ALTERNATOR.
 
 
 **Lab attendance is required**.
@@ -104,5 +106,6 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
-|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|1 | CAT - I | [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EY02smmwpltOiq8cZ9pdb9kBpzYVm7ielOoj5XrPHcLM8w?e=2b0Ybv) | [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EY02smmwpltOiq8cZ9pdb9kBpzYVm7ielOoj5XrPHcLM8w?e=2b0Ybv) |
+|2 | CAT - II | [Download](QP link here) | [Download](Schema Link here) |
+
