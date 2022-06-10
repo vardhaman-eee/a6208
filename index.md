@@ -77,10 +77,10 @@ exceptional circumstances. The late assignments will receive at most half credit
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|1 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|1 | [Assignment # 1](link) | - | - |
+|1 | [Assignment # 2](link) | - | - |
+|1 | [Assignment # 3](link) | - | - |
+|1 | [Assignment # 4](link) | - | - |
 
 ## <a name="practice">Practice</a>
 
@@ -90,14 +90,15 @@ exceptional circumstances. The late assignments will receive at most half credit
 3. Scott Connection of Transformer.
 4. Separation of core losses of a single phase tranformer. 
 5. Sumpners test on a Pair of Single phase Transformer. 
-6. REGULATION OF A THREE PHASE ALTERNATOR BY SYNCHRONOUS IMPEDANCE METHOD.
-7. V AND INVERTED V CURVES OF A THREE PHASE SYNCHRONOUS MOTOR. 
+6. Regulation of A Three Phase Alternator By Synchronous Impedance Method.
+7. V And Inverted V Curves of A Three Phase Synchronous Motor. 
 **Cycle-2 Experiments** [Download](https://vardhamancoe-my.sharepoint.com/:b:/g/personal/ananda_vardhaman_org/EYAdoEl2wjVLuWbk22h9PIwBmZN2QoW85BctbRmkrylDHA?e=0EdZQk)
-8. EQUIVALENT CIRCUIT OF A SINGLE PHASE INDUCTION MOTOR. 
-9. DETERMINATION OF Xd AND Xq OF A SALIENT POLE SYNCHRONOUS MACHINE.
-10. SYNCHRONIZATION OF ALTERNATORS. 
-11. BRAKE TEST ON A SINGLE PHASE INDUCTION MOTOR.
-12. EFFICIENCY OF 3 PHASE ALTERNATOR.
+8. Equivalent Circuit of A Single Phase Induction Motor. 
+9. Determination of Xd And Xq Of A Salient Pole Synchronous Machine.
+10. Synchronization of Alternators. 
+11. Brake Test on A Single Phase Induction Motor.
+12. Efficiency Of 3 Phase Alternator.
+
 
 
 **Lab attendance is required**.
